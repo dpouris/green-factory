@@ -1,0 +1,16 @@
+services:
+
+  front-end:
+    build: ./front-end
+    ports:
+      - "3000:3000"
+    # volumes:
+      # - ./front-end:/front-end
+    # platform: darwin/arm64
+    
+  # api:
+  #   build: ./api
+  #   ports:
+  #     - "8000:8000"
+  #   volumes:
+  #     - ./api:/api

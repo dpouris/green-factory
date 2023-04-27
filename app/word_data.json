@@ -1,0 +1,34 @@
+[
+  {
+    "input": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac venenatis augue.",
+    "output": "Category A"
+  },
+  {
+    "input": "Praesent et leo non quam aliquam dignissim. Fusce interdum feugiat eros, sit amet maximus ipsum placerat at. Nulla facilisi.",
+    "output": "Category B"
+  },
+  {
+    "input": "Suspendisse sit amet augue posuere, luctus nunc in, congue dolor. Integer ultrices mauris vel diam faucibus ullamcorper.",
+    "output": "Category C"
+  },
+  {
+    "input": "Morbi pulvinar elit vitae elit bibendum, ut mattis elit venenatis. Sed et massa at ipsum vulputate dictum.",
+    "output": "Category A"
+  },
+  {
+    "input": "Etiam consectetur aliquam arcu eu tristique. Nullam vitae felis ut odio sagittis hendrerit id ac sapien.",
+    "output": "Category B"
+  },
+  {
+    "input": "Duis bibendum varius eros quis bibendum. Nullam eleifend massa sed interdum tincidunt.",
+    "output": "Category C"
+  },
+  {
+    "input": "Nunc posuere nunc sed arcu varius, non mollis turpis semper. Maecenas auctor nisl sit amet libero pellentesque, vel ullamcorper elit congue.",
+    "output": "Category A"
+  },
+  {
+    "input": "Sed posuere mauris ac purus interdum, at suscipit enim venenatis. Integer ut ligula a ipsum ultrices interdum.",
+    "output": "Category B"
+  }
+]
